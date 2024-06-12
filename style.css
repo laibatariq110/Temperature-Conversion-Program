@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c2c1c1;
+  }
+  
+  #formDiv {
+    background-color: white;
+    max-width: 35%;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 15px #5a5858;
+  }
+  
+  h1 {
+    color: #432323;
+  }
+  
+  #textBox {
+    font-size: 1.3em;
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  button {
+    color: white;
+    background-color: #b643b6;
+    font-size: 1.2em;
+    margin-top: 15px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #a512a5;
+  }
+  
+  p {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
