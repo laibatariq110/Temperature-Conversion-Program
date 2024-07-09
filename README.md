@@ -32,3 +32,7 @@ The program takes the temperature input from the user and the selected conversio
 - HTML
 - CSS
 - JavaScript
+
+## License
+
+This project is licensed under the MIT License.
