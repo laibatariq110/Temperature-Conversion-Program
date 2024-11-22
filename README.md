@@ -2,6 +2,10 @@
 
 This program allows you to convert temperatures between Celsius and Fahrenheit.
 
+## 🌐 Live Demo
+![Temperature Conversion Program Screenshot](temperature-conversion-ss.png)
+[View the live project here!](https://laibatariq110.github.io/Temperature-Conversion-Program)
+
 ## Features
 
 - Converts temperatures from Celsius to Fahrenheit and vice versa.
@@ -32,7 +36,3 @@ The program takes the temperature input from the user and the selected conversio
 - HTML
 - CSS
 - JavaScript
-
-## License
-
-This project is licensed under the MIT License.
